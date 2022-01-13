@@ -8,7 +8,7 @@ Indian News Articles Dataset (from Kaggle). This dataset contains various Indian
 ## Execution
 1. Execute convert.py to convert data from the dataset into files.
 2. Make use of the cpp file to generate the SQL insert commands.
-![CPP Execution](img/3.png?raw=true "CPP Execution" =100x20)
+![CPP Execution](img/3.png?raw=true "CPP Execution" width="400" height="200")
 4. Open display.php in your XAMPP server on PhpMyAdmin.
 ![display.php](img/1.png?raw=true "Display Interface")
 6. Word Searching(with frequency) throughout the articles is ready to be used.
