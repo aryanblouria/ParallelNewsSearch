@@ -3,7 +3,7 @@ Searching by keywords in News Articles becomes quite a necessity given the impor
 
 
 ## Data
-Indian News Articles Dataset (from Kaggle). This dataset contains various Indian news articles from multiple sources like Firstpost.com, ndtv.com etc. The main column of this dataset which will be needed for this project is the ‘content’ column.
+Indian News Articles Dataset (from [Kaggle](https://www.kaggle.com/kuberiitb/indian-news-articles)). This dataset contains various Indian news articles from multiple sources like Firstpost.com, ndtv.com etc. The main column of this dataset which will be needed for this project is the ‘content’ column.
 
 ## Execution
 1. Execute convert.py to convert data from the dataset into files.
