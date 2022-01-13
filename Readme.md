@@ -1,5 +1,5 @@
 ## About 
-Searching by keywords in News Articles becomes quite a necessity given the importance of time taken to search the right topic for a reader. With a search tool for News Articles, the reader could just search for the right articles with important information hassle free. With this project we plan to implement a search tool for Indian News Articles (using a news articles dataset taken from the Internet), based on multithreading with the help of OpenMP
+Searching by keywords in News Articles becomes quite a necessity given the importance of time taken to search the right topic for a reader. With a search tool for News Articles, the reader could just search for the right articles with important information hassle free. With this project we implemented a search tool for Indian News Articles (using a news articles dataset taken from the Internet), based on multithreading with the help of OpenMP
 
 
 ## Data
